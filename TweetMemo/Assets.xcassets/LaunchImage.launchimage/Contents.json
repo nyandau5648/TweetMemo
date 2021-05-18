@@ -29,7 +29,7 @@
     },
     {
       "extent" : "full-screen",
-      "filename" : "TweetMemoのコピー.png",
+      "filename" : "TweetMemo.png",
       "idiom" : "iphone",
       "minimum-system-version" : "8.0",
       "orientation" : "portrait",
@@ -38,7 +38,7 @@
     },
     {
       "extent" : "full-screen",
-      "filename" : "TweetMemoのコピー-1.png",
+      "filename" : "TweetMemo1.png",
       "idiom" : "iphone",
       "minimum-system-version" : "8.0",
       "orientation" : "portrait",
@@ -47,7 +47,7 @@
     },
     {
       "extent" : "full-screen",
-      "filename" : "TweetMemoのコピー-2.png",
+      "filename" : "TweetMemo2.png",
       "idiom" : "iphone",
       "minimum-system-version" : "7.0",
       "orientation" : "portrait",
@@ -55,7 +55,7 @@
     },
     {
       "extent" : "full-screen",
-      "filename" : "TweetMemoのコピー-3.png",
+      "filename" : "TweetMemo3.png",
       "idiom" : "iphone",
       "minimum-system-version" : "7.0",
       "orientation" : "portrait",
@@ -64,21 +64,21 @@
     },
     {
       "extent" : "full-screen",
-      "filename" : "TweetMemoのコピー-4.png",
+      "filename" : "TweetMemo4.png",
       "idiom" : "iphone",
       "orientation" : "portrait",
       "scale" : "1x"
     },
     {
       "extent" : "full-screen",
-      "filename" : "TweetMemoのコピー-5.png",
+      "filename" : "TweetMemo5.png",
       "idiom" : "iphone",
       "orientation" : "portrait",
       "scale" : "2x"
     },
     {
       "extent" : "full-screen",
-      "filename" : "TweetMemoのコピー-6.png",
+      "filename" : "TweetMemo6.png",
       "idiom" : "iphone",
       "orientation" : "portrait",
       "scale" : "2x",
