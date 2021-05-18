@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>NewToday.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>TweetMemo.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>181966052462A344007CE023</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>186FDF7D25124BA3003947D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18878D27251248DF007FA8C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1888FBE3251093A000F9F9E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
