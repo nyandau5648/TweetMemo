@@ -1,0 +1,26 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - RealmSwift (~> 4.4.1)
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+
+PODFILE CHECKSUM: 3b390248cf48ee1d9adf344f1e39b2785333c8b6
+
+COCOAPODS: 1.8.4

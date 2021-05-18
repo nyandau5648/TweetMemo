@@ -1,0 +1,6 @@
+framework module Pods_TweetMemo {
+  umbrella header "Pods-TweetMemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
